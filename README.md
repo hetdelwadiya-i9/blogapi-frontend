@@ -1,4 +1,4 @@
-# blogapi-frontend
+# BlogApi Frontend
 A frontend for Blog-Api project
 
 # Demo
