@@ -10,7 +10,7 @@ Admin - test@admin.com | password - 123456
 
 ## Note 
 
-  * This repo is just a frontend of blogapi project. You need frontend also. Check out backend of blogapi project -> https://github.com/HeT-Delwadiya/blogapi-backend.
+  * This repo is just a frontend of blogapi project. You need backend also. Check out backend of blogapi project -> https://github.com/HeT-Delwadiya/blogapi-backend.
 
 ## Install
 
